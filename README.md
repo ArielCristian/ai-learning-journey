@@ -38,6 +38,6 @@ Cada sección contiene:
 
 Soy Ariel C. Palma, Data Engineer con orientación a Machine Learning y MLOps. Estoy ampliando mis competencias en AI aplicada a datos con foco en proyectos reales y de impacto.
 
-📬 [LinkedIn]([https://www.linkedin.com/in/ariel-cristian-palma](https://www.linkedin.com/in/ariel-cristian-palma/))  
+📬 [LinkedIn](https://www.linkedin.com/in/ariel-cristian-palma/) 
 🐙 [GitHub](https://github.com/ArielCristian)  
 📧 arielcris93@gmail.com
