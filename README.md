@@ -14,9 +14,9 @@ Cada sección contiene:
 
 ### ✅ 1. [Machine Learning Zoomcamp (2024)](https://github.com/arielcris/ml-zoomcamp-2024)
 - Estado: ✅ En curso
-- Proyecto: Predicción de accidentes con FastAPI
-- Avances: Semana 3 completada
-- Skills: ML clásico, pipelines, FastAPI, Docker
+- Proyecto: The course consists of structured modules, hands-on workshops, and a final project to reinforce your learning. Each module introduces core MLOps concepts and tools.
+- Avances: semmana 1 in progress
+- Skills: Python , Docker, Command line basics, Machine learning (e.g., through ML Zoomcamp), 1+ year of programming experience
 
 
 ---
