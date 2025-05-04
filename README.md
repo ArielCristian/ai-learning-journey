@@ -1,43 +1,44 @@
 # 🧠 AI Learning Journey – Ariel C. Palma
 
-Este repositorio es una bitácora abierta de mi camino de aprendizaje en **inteligencia artificial aplicada a datos**, centrado en proyectos reales, cursos avanzados y aplicaciones productivas.
+This repository is an open logbook of my learning path in **Artificial Intelligence applied to data**, focused on real-world projects, advanced courses, and production-ready applications.
 
-Cada sección contiene:
-- Cursos realizados
-- Avances por semana
-- Proyectos derivados (con enlaces a repos dedicados)
-- Reflexiones y lecciones aprendidas
+Each section includes:
+- Courses completed
+- Weekly progress
+- Derived projects (with links to dedicated repos)
+- Reflections and key takeaways
 
 ---
 
-## 📚 Cursos Realizados
+## 📚 Courses Completed
 
 ### ✅ 1. [Machine Learning Zoomcamp (2024)](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main)
-- Estado: ✅ En curso
-- Proyecto: The course consists of structured modules, hands-on workshops, and a final project to reinforce your learning. Each module introduces core MLOps concepts and tools.
-- Avances: semmana 1 in progress
-- Skills: Python , Docker, Command line basics, Machine learning (e.g., through ML Zoomcamp), 1+ year of programming experience
-
-
----
-
-## 📦 Proyectos destacados
-
-| Proyecto                             | Enlace                                                   | Descripción                                |
-|--------------------------------------|-----------------------------------------------------------|--------------------------------------------|
-
+- Status: ✅ In progress
+- Project: The course consists of structured modules, hands-on workshops, and a final project to reinforce learning. Each module introduces core MLOps concepts and tools.
+- Progress: Week 1 in progress
+- Skills: Python, Docker, Command line basics, Machine Learning (e.g., via ML Zoomcamp), 1+ year of programming experience
 
 ---
 
-## 🔧 Herramientas y tecnologías utilizadas
+## 📦 Highlighted Projects
 
+| Project                              | Link                                                    | Description                                |
+|--------------------------------------|----------------------------------------------------------|--------------------------------------------|
+
+*(To be added as you build each project)*
 
 ---
 
-## 👨‍💻 Sobre mí
+## 🔧 Tools & Technologies
 
-Soy Ariel C. Palma, Data Engineer con orientación a Machine Learning y MLOps. Estoy ampliando mis competencias en AI aplicada a datos con foco en proyectos reales y de impacto.
+*(This section will be updated as projects progress)*
 
-📬 [LinkedIn](https://www.linkedin.com/in/ariel-cristian-palma/) 
+---
+
+## 👨‍💻 About Me
+
+I'm Ariel C. Palma, a Data Engineer with a strong focus on Machine Learning and MLOps. I'm currently expanding my expertise in AI applied to data through hands-on projects and real-world challenges.
+
+📬 [LinkedIn](https://www.linkedin.com/in/ariel-cristian-palma/)  
 🐙 [GitHub](https://github.com/ArielCristian)  
 📧 arielcris93@gmail.com
