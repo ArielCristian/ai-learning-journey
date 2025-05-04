@@ -12,7 +12,7 @@ Cada sección contiene:
 
 ## 📚 Cursos Realizados
 
-### ✅ 1. [Machine Learning Zoomcamp (2024)](https://github.com/arielcris/ml-zoomcamp-2024)
+### ✅ 1. [Machine Learning Zoomcamp (2024)](https://github.com/DataTalksClub/mlops-zoomcamp/tree/main)
 - Estado: ✅ En curso
 - Proyecto: The course consists of structured modules, hands-on workshops, and a final project to reinforce your learning. Each module introduces core MLOps concepts and tools.
 - Avances: semmana 1 in progress
